@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My current research in Natural Language Processing (NLP) focuses on semantic understanding and knowledge representation in medical informatics. I aim to enhance how computers interpret and extract meaningful information from medical data, thereby improving the accuracy and efficiency of medical data systems through the linking and normalization of concepts within the extensive UMLS ontology.
 <!--
 **YashaswiniSampath/YashaswiniSampath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
