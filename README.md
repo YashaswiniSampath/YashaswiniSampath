@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My background spans Software Development Engineering, NLP, and Machine Learning, with expertise in delivering impactful solutions across full-stack development. I thrive on tackling complex problems with a data-driven approach. Currently researching Natural Language Processing at Indiana University, focusing on enhancing medical data interpretation and system efficiency. 
+My background spans Software Development Engineering, NLP, and Machine Learning, with expertise in delivering impactful solutions across full-stack development. I thrive on tackling complex problems with a data-driven approach. I am currently researching natural language processing in medical informatics at Indiana University, focusing on improving how medical data is interpreted and making systems more efficient.
 <!--
 **YashaswiniSampath/YashaswiniSampath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
