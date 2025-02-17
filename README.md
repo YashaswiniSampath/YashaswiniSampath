@@ -5,6 +5,8 @@ My background spans over Software Development Engineering, NLP, and Machine Lear
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yashaswinisampathkumar-blue)](https://linkedin.com/in/yashaswinisampathkumar)
 
 ![](https://komarev.com/ghpvc/?username=YashaswiniSampath&color=blue)
+
+[![Yashaswini's GitHub stats](https://github-readme-stats.vercel.app/api?username=YashaswiniSampath)](https://github.com/YashaswiniSampath)
 <!--
 **YashaswiniSampath/YashaswiniSampath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
