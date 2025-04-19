@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 👨‍💻 All of my projects are available at [yashaswinisampath.github.io/](yashaswinisampath.github.io/)
 -->
 
 <h1 align="center">Hi 👋, I'm Yashaswini</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashaswinisampath&label=Profile%20views&color=0e75b6&style=flat" alt="yashaswinisampath" /> </p>
 
 - 🔭 I’m currently working on [project in DevOps and AI integration to a full stack application](https://github.com/YashaswiniSampath/CoursRecommendationSystem)
-
-- 👨‍💻 All of my projects are available at [yashaswinisampath.github.io/](yashaswinisampath.github.io/)
 
 - 📝 I regularly write articles on [https://medium.com/@yashaswinisampathkumar](https://medium.com/@yashaswinisampathkumar)
 
