@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek models: Explained Easy](https://medium.com/@yashaswinisampathkumar/deepseek-models-made-easy-086774591805?source=rss-0d68c07e8142------2)
+- [Probabilistic Reasoning in AI: NLP Part-of-Speech Tagging](https://medium.com/@yashaswinisampathkumar/probabilistic-reasoning-in-ai-nlp-part-of-speech-tagging-383cce5608e0?source=rss-0d68c07e8142------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
